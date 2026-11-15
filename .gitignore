@@ -1,0 +1,10 @@
+﻿.sf/
+.sfdx/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.pem
+*.key
+*.p12
